@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EnjoyMeal</string>
+    <string name="title">Hello world!</string>
+    <string name="order">Order dish</string>
+    <string name="comment">Submit comment</string>
+    <string name="menu">Menu</string>
+    <string name="cart">Your Cart</string>
+</resources>
